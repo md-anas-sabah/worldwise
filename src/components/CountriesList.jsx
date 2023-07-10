@@ -1,4 +1,4 @@
-import CityItem from "./CityItem";
+import CountryItem from "./CountryItem";
 import styles from "./CountryList.module.css";
 import Spinner from "./Spinner";
 import Message from "./Message";
@@ -11,10 +11,12 @@ function CountriesList({ cities, isLoading }) {
       <Message message="Add your Country by clicking on your city on the map" />
     );
 
+  const countries = [];
+
   return (
     <ul className={styles.countryList}>
-      {cities.map((city) => (
-        <CityItem city={city} key={city.id} />
+      {countries.map((country) => (
+        <CountryItem country={country} key={country.id} />
       ))}
     </ul>
   );
