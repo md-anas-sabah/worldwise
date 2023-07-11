@@ -7,7 +7,9 @@ function CityList({ cities, isLoading }) {
   if (isLoading) <Spinner />;
 
   if (!cities.length)
-    return <Message message="Add your city by clicking on your city on the map" />;
+    return (
+      <Message message="Add your city by clicking on your city on the map" />
+    );
 
   return (
     <ul className={styles.cityList}>
