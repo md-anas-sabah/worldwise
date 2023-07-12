@@ -1,124 +1,28 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "PT",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Patna",
+      "cityName": "Kharar",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2023-07-12T15:47:53.229Z",
-      "notes": "sa",
+      "date": "2023-07-12T17:46:05.545Z",
+      "notes": "Never want to go again\n",
       "position": {
-        "lat": "25.58184539821268",
-        "lng": "85.10264023839763"
+        "lat": "30.745101010380225",
+        "lng": "76.64626836776735"
       },
-      "id": 98443198
+      "id": 1
     },
     {
-      "cityName": "Patna",
+      "cityName": "Pali",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2023-07-12T15:47:53.229Z",
-      "notes": "sa",
+      "date": "2023-07-12T18:00:15.099Z",
+      "notes": "Good",
       "position": {
-        "lat": "25.58184539821268",
-        "lng": "85.10264023839763"
+        "lat": "22.380555501421533",
+        "lng": "82.23266601562501"
       },
-      "id": 98443199
-    },
-    {
-      "cityName": "Patna",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-12T15:47:53.229Z",
-      "notes": "sa",
-      "position": {
-        "lat": "25.58184539821268",
-        "lng": "85.10264023839763"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Arni",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-12T16:24:13.143Z",
-      "notes": "",
-      "position": {
-        "lat": "19.96758677859934",
-        "lng": "78.10000590912894"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Takhatpur",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-12T16:27:52.363Z",
-      "notes": "",
-      "position": {
-        "lat": "22.159481645907785",
-        "lng": "81.85519968498215"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Takhatpur",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-12T16:28:11.712Z",
-      "notes": "",
-      "position": {
-        "lat": "22.159481645907785",
-        "lng": "81.85519968498215"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Bhatapara",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-12T16:28:55.062Z",
-      "notes": "",
-      "position": {
-        "lat": "21.83415005051969",
-        "lng": "81.98737040636594"
-      },
-      "id": 98443204
+      "id": 2
     }
   ]
 }
