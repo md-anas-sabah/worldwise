@@ -1,4 +1,10 @@
-import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
+// import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
+import {
+  HashRouter as Router,
+  Navigate,
+  Route,
+  Routes,
+} from "react-router-dom";
 
 import Pricing from "./pages/Pricing";
 import Homepage from "./pages/Homepage";
@@ -18,7 +24,7 @@ function App() {
   return (
     <AuthProvider>
       <CitiesProvider>
-        <BrowserRouter>
+        <Router basename="/">
           <Routes>
             <Route index element={<Homepage />} />
             <Route path="/pricing" element={<Pricing />} />
@@ -40,7 +46,7 @@ function App() {
             </Route>
             <Route path="*" element={<PageNotFound />} />
           </Routes>
-        </BrowserRouter>
+        </Router>
       </CitiesProvider>
     </AuthProvider>
   );
