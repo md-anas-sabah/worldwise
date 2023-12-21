@@ -1,8 +1,9 @@
 const jsonServer = require("json-server");
 const server = jsonServer.create();
 const router = jsonServer.router("./data/cities.json");
+const cors = require("cors");
 
-console.log(router);
+server.use(cors());
 
 const middleware = jsonServer.defaults({
   static: "./build",
