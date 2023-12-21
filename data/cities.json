@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Ambajogai",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-31T07:47:35.838Z",
-      "notes": "",
-      "position": {
-        "lat": "18.692985457961637",
-        "lng": "76.69555664062501"
-      },
-      "id": 7
-    },
-    {
       "cityName": "Sendhwa",
       "country": "India",
       "emoji": "🇮🇳",

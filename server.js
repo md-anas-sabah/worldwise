@@ -1,6 +1,6 @@
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const router = jsonServer.router(".data/cities.json");
+const router = jsonServer.router("./data/cities.json");
 
 console.log(router);
 
