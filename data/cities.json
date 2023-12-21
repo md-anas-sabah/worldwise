@@ -1,42 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Bayad",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-31T07:32:56.765Z",
-      "notes": "",
-      "position": {
-        "lat": "23.14791660779035",
-        "lng": "73.35571289062501"
-      },
-      "id": 4
-    },
-    {
-      "cityName": "Baruni",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-07-31T07:35:51.883Z",
-      "notes": "",
-      "position": {
-        "lat": "25.48184932624919",
-        "lng": "85.97900390625001"
-      },
-      "id": 5
-    },
-    {
-      "cityName": "Hopesay",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2023-07-31T07:45:49.514Z",
-      "notes": "Nice Place to visit\n",
-      "position": {
-        "lat": "52.43245522175589",
-        "lng": "-2.9003906250000004"
-      },
-      "id": 6
-    },
-    {
       "cityName": "Ambajogai",
       "country": "India",
       "emoji": "🇮🇳",
@@ -83,6 +47,18 @@
         "lng": "78.56323242187501"
       },
       "id": 10
+    },
+    {
+      "cityName": "Patna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-21T17:38:30.856Z",
+      "notes": "Home",
+      "position": {
+        "lat": "25.294949436256896",
+        "lng": "86.011962890625"
+      },
+      "id": 11
     }
   ]
 }
